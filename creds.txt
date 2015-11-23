@@ -1,0 +1,5 @@
+ip="10.129.40.114"
+password="raspberry"
+user="pi"
+
+sudo /etc/init.d/vsftpd (stop | start)
